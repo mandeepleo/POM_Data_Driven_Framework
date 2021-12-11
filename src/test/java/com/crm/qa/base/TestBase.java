@@ -21,8 +21,8 @@ public class TestBase {
 	public  static EventFiringWebDriver e_driver;
 	public static WebEventListener eventListener;
 	
-	//constructor method
-	//creating FileInputStream for reading data from config.properties
+	//constructor method -mandeepleo
+	//creating FileInputStream for reading data from config.properties -mandeepleo
 	public TestBase() {
 		prop = new Properties();
 		FileInputStream fis = null;
